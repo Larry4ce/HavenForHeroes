@@ -1,0 +1,110 @@
+body {
+	background-image: url("background3.jpg");
+}
+
+td.img{
+width:150;
+}
+
+td{
+background-color:white;
+}
+
+.dmdNewReleasesWidgetItem{
+	background-color: white;
+}
+
+.dmdNewReleasesWidget{
+	background-image: url("background3.jpg");
+}
+
+#main{
+	width: 1280px; 
+	margin: 0 auto;
+}
+
+#Header {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  overflow: hidden;
+  border: none;
+  font: normal 100px/1 Impact, sans-serif;
+  color: rgba(255,0,0,1);
+  text-align: center;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  background: none;
+  padding: 0 0;
+  width: 900px; 
+  margin: 10px auto;
+  }
+
+#navbar {
+	text-align: center;
+	width: 900px; 
+	margin: 0 auto;
+  }
+
+#navitem {
+    display: inline;
+	margin: 2px 10px;
+}
+
+#navlink {
+	font: normal 24px/1 "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	color: rgba(255,255,255,1);
+	
+ }
+
+ 
+ #navlink{
+ padding: 50px;
+ }
+ 
+ #logo {
+	text-align: center;
+	padding: 5px;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	width: 90px;
+	margin: 0 auto;
+ }
+ 
+ #footer{
+	text-align: center;
+	padding: 5px;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	width: 90px;
+	margin: 0 auto; 
+ }
+ 
+ #videoPlaylist{
+ border-width: 10px;
+ border: solid;
+ }
+ 
+ div#auction-nudge-items table.columns tr {
+  background-color: white;
+}
+
+div#auction-nudge-items td.title a {
+color: black;	/* Change to desired colour */
+}
+
+div#auction-nudge-items div.price {
+	color: black;	/* Change to desired colour */
+}
+
+div#auction-nudge-items div.ends {
+	color: black;	/* Change to desired colour */
+}	
+
+div#auction-nudge-items div.view a {
+
+color: black;	/* Change to desired colour */
+}
